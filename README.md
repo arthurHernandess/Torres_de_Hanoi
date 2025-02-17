@@ -1,5 +1,5 @@
 # Torres_de_Hanoi
-Algoritmo de solução do problema das torres de hanoi https://pt.wikipedia.org/wiki/Torre_de_Han%C3%B3i desenvolvido em C
+Algoritmo recursivo de solução do problema das torres de hanoi https://pt.wikipedia.org/wiki/Torre_de_Han%C3%B3i desenvolvido em C
 
 1. Para rodar: 
 1.1 tenha instalado um compilador de C. Eu utilizei o MinGW com gcc.
